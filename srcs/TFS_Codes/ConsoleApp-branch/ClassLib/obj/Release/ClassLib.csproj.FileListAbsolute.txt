@@ -1,0 +1,6 @@
+D:\vsts-agent-win-x64-2.134.2\agent\_work\2\s\CTA\ConsoleApp-branch\ClassLib\bin\Release\ClassLib.dll
+D:\vsts-agent-win-x64-2.134.2\agent\_work\2\s\CTA\ConsoleApp-branch\ClassLib\bin\Release\ClassLib.pdb
+D:\vsts-agent-win-x64-2.134.2\agent\_work\2\s\CTA\ConsoleApp-branch\ClassLib\obj\Release\ClassLib.csprojResolveAssemblyReference.cache
+D:\vsts-agent-win-x64-2.134.2\agent\_work\2\s\CTA\ConsoleApp-branch\ClassLib\obj\Release\ClassLib.csproj.CoreCompileInputs.cache
+D:\vsts-agent-win-x64-2.134.2\agent\_work\2\s\CTA\ConsoleApp-branch\ClassLib\obj\Release\ClassLib.dll
+D:\vsts-agent-win-x64-2.134.2\agent\_work\2\s\CTA\ConsoleApp-branch\ClassLib\obj\Release\ClassLib.pdb
